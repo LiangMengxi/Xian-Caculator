@@ -1,15 +1,15 @@
 {
   "item": {
-    "id": "com.liang.xiancalc",
+    "id": "com.liang.xicalc",
     "restype": "quick_app",
-    "name": "弦计算器",
-    "description": "一款基于@爅峫Moye的弦计算器打造的专门为小米 Watch S5 进行适配的多功能科学计算器\n为小米watch S5圆形表盘专门做了UI适配\n支持各种计算，如解方程、不等式组、函数、绘图及化学方程式配平等功能",
+    "name": "曦计算器",
+    "description": "一款专门为小米 Watch S5 进行适配的多功能科学计算器\n支持各种计算，如解方程、不等式组、函数、绘图及化学方程式配平等功能",
     "preview": [
-      "media/02-menu.png",
-      "media/03-equation.png",
-      "media/01-home.png"
+      "media/preview-03-function-plot.png",
+      "media/preview-01-exact-results.png",
+      "media/preview-02-equation-solver.png"
     ],
-    "icon": "media/icon-original.png",
+    "icon": "media/icon.png",
     "cover": "media/cover.png",
     "author": [
       {
@@ -22,7 +22,7 @@
   "downloads": {
     "xmws5": {
       "version": "1.0.0",
-      "file_name": "downloads/com.liang.xiancalc.release.1.0.0.rpk",
+      "file_name": "downloads/com.liang.xicalc.release.1.0.0.rpk",
       "versionCode": 1,
       "updatelogs": [
         {
