@@ -22,13 +22,23 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "请咱一瓶饮料？",
+      "url": "https://vr.lmxcloud.xyz/donate",
+      "icon": "bread"
+    }
+  ],
   "downloads": {
     "xmws5": {
-      "version": "1.0.1",
-      "file_name": "downloads/com.liang.xicalc.release.1.0.1.rpk",
-      "versionCode": 2,
+      "version": "1.0.2",
+      "file_name": "downloads/com.liang.xicalc.release.1.0.2.rpk",
+      "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "1.0.2",
+          "content": "修复函数绘图会出现混乱的问题\n新增初高中数学常用公式\n新增设置选项，可设置重新开启计算器时，是否为新计算"
+        },
         {
           "version": "1.0.1",
           "content": "修复已有计算时，进行续算会显示ans的问题\n修复一系列使用体验问题"
@@ -40,19 +50,19 @@
       ]
     },
     "xmws441": {
-      "version": "1.0.1",
-      "file_name": "downloads/com.liang.xicalc.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.0.2",
+      "file_name": "downloads/com.liang.xicalc.release.1.0.2.rpk",
+      "versionCode": 3
     },
     "xmws4": {
-      "version": "1.0.1",
-      "file_name": "downloads/com.liang.xicalc.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.0.2",
+      "file_name": "downloads/com.liang.xicalc.release.1.0.2.rpk",
+      "versionCode": 3
     },
     "xmws541": {
-      "version": "1.0.1",
-      "file_name": "downloads/com.liang.xicalc.release.1.0.1.rpk",
-      "versionCode": 2
+      "version": "1.0.2",
+      "file_name": "downloads/com.liang.xicalc.release.1.0.2.rpk",
+      "versionCode": 3
     }
   },
   "ext": {}
