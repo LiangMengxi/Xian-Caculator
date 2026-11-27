@@ -31,13 +31,17 @@
   ],
   "downloads": {
     "xmws5": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.liang.xicalc.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.liang.xicalc.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
         {
+          "version": "1.0.3",
+          "content": "修复函数绘图会出现的画图问题\n新增勾股定理快速计算，知二推一"
+        },
+        {
           "version": "1.0.2",
-          "content": "修复函数绘图会出现混乱的问题\n新增初高中数学常用公式\n新增设置选项，可设置重新开启计算器时，是否为新计算"
+          "content": "新增初高中数学常用公式\n新增设置选项，可设置重新开启计算器时，是否为新计算"
         },
         {
           "version": "1.0.1",
@@ -50,19 +54,19 @@
       ]
     },
     "xmws441": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.liang.xicalc.release.1.0.2.rpk",
-      "versionCode": 3
+      "version": "1.0.3",
+      "file_name": "downloads/com.liang.xicalc.release.1.0.3.rpk",
+      "versionCode": 4
     },
     "xmws4": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.liang.xicalc.release.1.0.2.rpk",
-      "versionCode": 3
+      "version": "1.0.3",
+      "file_name": "downloads/com.liang.xicalc.release.1.0.3.rpk",
+      "versionCode": 4
     },
     "xmws541": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.liang.xicalc.release.1.0.2.rpk",
-      "versionCode": 3
+      "version": "1.0.3",
+      "file_name": "downloads/com.liang.xicalc.release.1.0.3.rpk",
+      "versionCode": 4
     }
   },
   "ext": {}
